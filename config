@@ -8,10 +8,16 @@
       "link": "https://google.com"
     }
   ],
-  "non_organic_links": {
-    "keyname1": "https://yandex.com?sub1={name1}&sub2={name2}&sub3={name3}&sub4={apsf_id}&sub5={app_id}",
-    "keyname2": "https://yandex.com?sub1={name1}&sub2={name2}&sub3={apsf_id}&sub4={app_id}",
-  },
+  "non_organic_links": [
+    {
+      "name": "keyname1",
+      "link": "https://yandex.com?sub1={name1}&sub2={name2}&sub3={name3}&sub4={apsf_id}&sub5={app_id}"
+    },
+    {
+      "name": "keyname2",
+      "link": "https://yandex.com?sub1={name1}&sub2={name2}&sub3={name3}&sub4={apsf_id}&sub5={app_id}"
+    }
+  ],
   "country_codes": [
     "PT"
    ]
