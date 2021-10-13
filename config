@@ -1,3 +1,18 @@
 {
-  "key": "1c8d10f454ab49e3af4406f44257c88f"
+  "key": "1c8d10f454ab49e3af4406f44257c88f",
+  "dev_key": "PGgkV9MjpWd5AzbkBooftS",
+  "mode": true,
+  "links": [
+    {
+      "id": 1,
+      "link": "https://google.com"
+    }
+  ],
+  "non_organic_links": {
+    "keyname1": "https://yandex.com?sub1={name1}&sub2={name2}&sub3={name3}&sub4={apsf_id}&sub5={app_id}",
+    "keyname2": "https://yandex.com?sub1={name1}&sub2={name2}&sub3={apsf_id}&sub4={app_id}",
+  },
+  "country_codes": [
+    "PT"
+   ]
 }
